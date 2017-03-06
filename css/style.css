@@ -186,7 +186,7 @@ a:focus, .btn:focus, .btn:active:focus, .btn.active:focus, .btn.focus, .btn:acti
 	background: rgba(0,0,0,0.4);
 }
 .intro h1 {
-	font-family: 'Exo 2', 'Dancing Script', cursive;
+	font-family: 'Roboto', 'Raleway', 'Dancing Script', cursive;
 	color: #fff;
 	font-size: 10em;
 	font-weight: 700;
